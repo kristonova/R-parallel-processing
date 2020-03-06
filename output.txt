@@ -1,0 +1,42 @@
+# A tibble: 4,444 x 2
+   angka ket    
+   <dbl> <chr>  
+ 1    22 komplit
+ 2    40 komplit
+ 3    58 komplit
+ 4    76 komplit
+ 5   112 komplit
+ 6   130 komplit
+ 7   148 komplit
+ 8   184 komplit
+ 9   202 komplit
+10   256 komplit
+# ... with 4,434 more rows
+# A tibble: 4,444 x 2
+   angka ket    
+   <dbl> <chr>  
+ 1    22 komplit
+ 2    40 komplit
+ 3    58 komplit
+ 4    76 komplit
+ 5   112 komplit
+ 6   130 komplit
+ 7   148 komplit
+ 8   184 komplit
+ 9   202 komplit
+10   256 komplit
+# ... with 4,434 more rows
+# A tibble: 4,444 x 2
+   angka ket    
+   <dbl> <chr>  
+ 1    22 komplit
+ 2    40 komplit
+ 3    58 komplit
+ 4    76 komplit
+ 5   112 komplit
+ 6   130 komplit
+ 7   148 komplit
+ 8   184 komplit
+ 9   202 komplit
+10   256 komplit
+# ... with 4,434 more rows
